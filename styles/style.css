@@ -2,6 +2,7 @@ html {
   font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
   font-family:  'Dancing Script', cursive;
 }
+
 h1 {
   font-size: 60px;
   text-align: center;
@@ -12,22 +13,23 @@ p, li {
   line-height: 2;
   letter-spacing: 1px;
 }
-html {
-  background-color: #BF3F72;
-}
+
 body {
+  background-color: #BF3F72;
   width: 600px;
   margin: 0 auto;
   background-color: #EF83EC;
   padding: 0 120px 20px 120px;
   border: 5px solid white;
 }
+
 h1 {
   margin: 0;
   padding: 20px 0;    
   color: #6B1268;
   text-shadow: 3px 3px 1px white;
 }
+
 img {
   display: block;
   
